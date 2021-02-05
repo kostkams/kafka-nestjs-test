@@ -1,0 +1,11 @@
+/.idea/
+/dist/
+/node_modules/
+/kafka/*.csr
+/kafka/*.crt
+/kafka/*creds
+/kafka/*.jks
+/kafka/*.key
+/kafka/*.pem
+/kafka/*.req
+/kafka/*.srl
